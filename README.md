@@ -25,3 +25,4 @@ const SnehpriyaJha = {
  status: "In a hyperloop 🚄"
 }
 ```
+<a href="https://linkedin.com/in/snehpriyajha"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/snehpriyajha" alt="LinkedIn Badge"></a> 
