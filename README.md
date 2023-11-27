@@ -3,7 +3,7 @@
 <p>Final Year student at <b>Giani Zail Singh Campus College of Engineering & Technology</b>, Bhatinda, Punjab 📚 </p>
 
 
-### <img src="" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/XEOKyyyO3N91igSmnk/giphy.gif" width="50"> A little more about me...  
 
 ```C++
 const SnehpriyaJha = {
