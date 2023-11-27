@@ -11,7 +11,6 @@ const SnehpriyaJha = {
   pronouns: "she/her"
   department: "Computer Science Engineering",
   role: "Senior, GDSC Lead"
-  
   code: [C, C++, Javascript, HTML, CSS, SQL, Python, Java, Kotlin]
   libraries: [tensorflow, openCV, jupyter, pytorch, scikit learn]
   technologies: [MS Office, Gsuite, Tableau, Docker],
