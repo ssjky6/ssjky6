@@ -1,6 +1,6 @@
 <h2> Hello, I'm Snehpriya Jha <img src="https://github.com/ssjky6/ssjky6/blob/main/anime-hello.gif" width="40"></h2>
 <img align='right' src="https://github.com/ssjky6/ssjky6/blob/main/programmer.com.gif" width="270">
-<p>Final Year student at <b>Giani Zail Singh Campus College of Engineering & Technology</b>, Bhatinda, Punjab 📚 </p>
+<p>Senior at <b>Giani Zail Singh Campus College of Engineering & Technology</b>, Punjab 📚 </p>
 
 
 ### <img src="https://media.giphy.com/media/XEOKyyyO3N91igSmnk/giphy.gif" width="50"> A little more about me...  
