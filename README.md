@@ -13,7 +13,7 @@ const SnehpriyaJha = {
   role: "Senior, GDSC Lead"
   
   code: [C, C++, Javascript, HTML, CSS, SQL, Python, Java, Dart, Kotlin]
-  libraries: [tensorflow, openCV, jupyter, pytorch, scikit learn, flask, numpy, pandas, keras]
+  libraries: [tensorflow, openCV, jupyter, pytorch, scikit learn]
   technologies: [MS Office, Gsuite, Tableau, Docker],
   Interest: {
                  Machine Learning;
